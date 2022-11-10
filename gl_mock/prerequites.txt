@@ -1,0 +1,12 @@
+You will need the following packages installed on the system to run these projects locally
+
+jdk 11
+maven 3.8.6
+mysql 8
+mongo 4.4
+nvm 0.34
+nodejs 14.19.1(installed using nvm)
+angular 14.2.1
+chrome and chromium
+sdkman
+
